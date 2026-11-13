@@ -1,6 +1,6 @@
 {
-  version: 1.0
-  ads:on
-  interstitial:on
-  banner:on
+  "version": "1.0",
+  "ads": "on",
+  "interstitial": "on",
+  "banner": "on"
 }
